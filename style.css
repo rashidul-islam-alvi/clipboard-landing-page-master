@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bai Jamjuree', sans-serif;
+    background-color: white;
+    background-repeat: no-repeat;
+}
+
+
+
+.first-section{
+    text-align: center;
+}
+
+.logo {
+    height: 57.5 px;
+    width: 57.5 px;
+    margin: 3rem;
+    margin-top: 9rem;
+   
+}
+
+.heading1 {
+    
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    color: hsl(210, 10%, 33%)
+}
+
+.para1 {
+    font-size: 1.18rem;
+    color: hsl(201, 11%, 66%);
+    line-height: 2rem;
+    margin-bottom: 0;
+}
+
+
+.btn-ios {
+    margin: 2rem;
+    height: 50px;
+    width: 230px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: hsl(171, 66%, 44%);
+    color: white;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 2px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.btn-ios:hover {
+    box-shadow: 0 8px 6px -8px black;
+
+}
+
+
+.btn-mac {
+    margin: 2rem;
+    height: 50px;
+    width: 230px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color:hsl(233, 100%, 69%);
+    color: white;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 2px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.btn-mac:hover {
+    box-shadow: 0 8px 6px -8px black;
+
+}
+
+
+.heading2 {
+
+
+    font-size: 2rem;
+    margin-top: 10rem;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    color: hsl(210, 10%, 33%)
+
+}
+
+.para2 {
+    font-size: 0.8rem;
+    color: hsl(201, 11%, 66%);
+    line-height: 2rem;
+    margin-bottom: 0;
+}
+
+
+.second-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 8rem;
+    
+}
+
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    transform: translateY(-70px);
+}
+
+.style-heading {
+    font-size: 1.5rem;
+    color: hsl(210, 10%, 33%);
+    margin-bottom: 12px;
+}
+
+.span-style {
+    font-size: 15px;
+    color: hsl(201, 11%, 66%);
+}
+
+.third-section {
+    text-align: center;
+}
+
+.device {
+    margin-top: 7rem;
+}
+
+.fourth-section {
+    text-align: center;
+}
+
+.heading3 {
+
+
+    font-size: 2rem;
+    margin-top: 6rem;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    color: hsl(210, 10%, 33%)
+
+}
+
+.fifth-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 4rem;
+}
+
+.style-div {
+    text-align: center;
+}
+
+.icon {
+    margin-bottom: 30px;
+}
+
+
+.heading4 {
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    color: hsl(210, 10%, 33%);
+    margin-bottom: 10px;
+}
